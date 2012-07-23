@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: MakerBar Public Presence Projector
-Plugin URI: http://MakerBar.com
+Plugin URI: https://github.com/MakerBar/Presence-Wordpress-Plugin
 Description: Shows whether or not the MakerBar space is open (based on whether anyone is there)
 Version: 1.0
 Author: Bert Hartmann (bert@makerbar.com)
